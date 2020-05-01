@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Incident Game</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_resolver_incident_game</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Incident" name="incident">81b164e8dbd3001054b02095ca9619c2</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 23:13:48</sys_created_on>
+        <sys_id>f409ab41dbec901054b02095ca961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Game</sys_name>
+        <sys_package display_value="Resolver" source="x_snc_resolver">0d37ebcddbac901054b02095ca961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resolver">0d37ebcddbac901054b02095ca961992</sys_scope>
+        <sys_update_name>sys_db_object_f409ab41dbec901054b02095ca961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 23:13:48</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_snc_resolver.incident_game_user" name="x_snc_resolver.incident_game_user">3c39eb41dbec901054b02095ca961927</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
